@@ -218,7 +218,7 @@ score = lr.score(x_test,y_test)
 print('Akurasi model Regresi Linear', score)
 ```
 
-Akurasi model Regresi Linear 1.0
+Akurasi model Regresi Linear 0.8490566037735849
 
 ```bash
 print(x)
