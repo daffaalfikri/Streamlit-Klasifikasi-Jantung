@@ -134,6 +134,8 @@ kita akan melihat dataset
 df.head()
 ```
 
+![Image](A3.png)
+
 Selanjutnya kita akan memeriksa apakah datasetsnya terdapat baris yang kosong atau null dengan menggunakan seaborn
 
 ```bash
