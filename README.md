@@ -76,9 +76,7 @@ Dataset yang saya gunakan berasal dari Kaggle ..<br>
   7: reversable defect: tidak ada gerakan darah yang tepat saat berolahraga
 - target - memiliki penyakit atau tidak (1=yes, 0=no) (= atribut yang diprediksi)
 
-## Data Preparation
-
-![Image](EDA1.png)
+ ![Image](EDA1.png)
 ![Image](EDA2.png)
 ![Image](EDA3.png)
 ![Image](EDA6.png)
@@ -87,7 +85,7 @@ Dataset yang saya gunakan berasal dari Kaggle ..<br>
 ![Image](EDA10.png)
 ![Image](EDA11.png)
 
-
+## Data Preparation
 ### Data Collection
 
 Untuk data collection ini, saya mendapatkan dataset yang nantinya digunakan dari website kaggle dengan nama dataset Klasifikasi Penyakit Jantung, jika anda tertarik dengan datasetnya, anda bisa click link diatas.
