@@ -81,6 +81,12 @@ Dataset yang saya gunakan berasal dari Kaggle ..<br>
 ![Image](EDA1.png)
 ![Image](EDA2.png)
 ![Image](EDA3.png)
+![Image](EDA6.png)
+![Image](EDA7.png)
+![Image](EDA8.png)
+![Image](EDA10.png)
+![Image](EDA11.png)
+
 
 ### Data Collection
 
