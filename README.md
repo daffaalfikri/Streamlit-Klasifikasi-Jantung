@@ -169,6 +169,8 @@ sns.heatmap(df.corr(),annot=True)
 
 ![Image](A1.png)
 
+![Image](EDA.png)
+
 ```bash
 df.head()
 ```
