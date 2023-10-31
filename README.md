@@ -85,7 +85,6 @@ Dataset yang saya gunakan berasal dari Kaggle ..<br>
 ![Image](EDA10.png)
 ![Image](EDA11.png)
 
-## Data Preparation
 ### Data Collection
 
 Untuk data collection ini, saya mendapatkan dataset yang nantinya digunakan dari website kaggle dengan nama dataset Klasifikasi Penyakit Jantung, jika anda tertarik dengan datasetnya, anda bisa click link diatas.
